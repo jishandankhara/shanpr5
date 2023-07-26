@@ -1,6 +1,6 @@
 #include<stdio.h>
 void main(){
-int j,r,c,sum=0;
+int j,r,c;
 printf("Enter the size of raw and colum:");
 scanf("%d",&j);
 int a[j][j];
